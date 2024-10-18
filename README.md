@@ -27,31 +27,33 @@ Follow the steps below to get the project running on your local machine.
 
 2. **Install dependencies:**
     Install the required Python packages:
+   
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Set up your OMDb API key:**
+4. **Set up your OMDb API key:**
     - Open `app.py` and replace the value of `API_KEY` with your OMDb API key:
+      
     ```python
     API_KEY = "your_omdb_api_key"
     ```
 
-4. **Run the application:**
+5. **Run the application:**
     ```bash
     python app.py
     ```
 
-5. **Access the application:**
+6. **Access the application:**
     - Open a web browser and navigate to `http://127.0.0.1:5000/` to start searching for movie details.
 
 ### Project Structure
 
 ```bash
 .
-├── app.py                  # Main application file
+├── app.py     
 ├── Dockerfile              
-└── README.md               # Project documentation
+└── README.md 
 
 ```
 
