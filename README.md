@@ -35,9 +35,11 @@ Follow the steps below to get the project running on your local machine.
 4. **Set up your OMDb API key:**
     
     - Open `app.py` and replace the value of `API_KEY` with your OMDb API key:
-      
+
     ```python
+    
     API_KEY = "a43183c2"
+    
     ```
 
 5. **Run the application:**
