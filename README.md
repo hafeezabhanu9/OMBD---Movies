@@ -57,12 +57,17 @@ Follow the steps below to get the project running on your local machine.
 
 ```
 
-## API Usage 🖥️
+## API Usage
 - The app interacts with the OMDb API to fetch movie data. You will need to use your own OMDb API key in app.py.
 
-### Features to Implement 🎯
+### Features to Implement
 - Search Suggestions: Implement real-time suggestions as the user types in the movie title.
 - Watchlist: Add functionality to save movies to a watchlist during the session.
 - Related Movies: Display related movies based on the movie genre.
 
-  
+## Author
+- **Hafeeza Bhanu Mohmmad**
+- **Lalam Divya Sri**
+
+### Acknowledgements
+- OMDB-API: For providing the API.
