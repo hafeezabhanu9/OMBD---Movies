@@ -21,8 +21,8 @@ Follow the steps below to get the project running on your local machine.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/hafeezabhanu9/movie-details-finder.git
-    cd movie-details-finder
+    git clone https://github.com/hafeezabhanu9/OMDB---Movies.git
+    cd OMDB---Movies
     ```
 
 2. **Install dependencies:**
