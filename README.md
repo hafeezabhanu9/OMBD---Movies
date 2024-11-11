@@ -96,11 +96,6 @@ Follow the steps below to get the project running on your local machine.
 
 The app interacts with the OMDb API to fetch movie data. You will need to use your own OMDb API key in `app.py`.
 
-## Features to Implement
-
-- **Search Suggestions:** Implement real-time suggestions as the user types in the movie title.
-- **Related Movies:** Display related movies based on the movie genre.
-
 ## Authors
 
 - **Hafeeza Bhanu Mohammad**
